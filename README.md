@@ -1,5 +1,6 @@
 # DeFi-notes
-2020/8/31
+- 2020/8/31
+-----------
 今天一早刷到Curve团队正在进行一场把一部分LP的费用分给veCRV持有者的[投票](https://signal.curve.fi/#/curve/proposal/QmSjQU4ys9brt96cgyEDfcH9tJQ93e8c26RXCZTJRSX8fS)，
 考虑到这是CRV的一个潜在利好，七哥以3.55刀的单价入手100刀的CRV。
 这是curve discord群里大家计算的回报率：
